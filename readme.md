@@ -3,7 +3,6 @@
 #Mode 2 Meetup
 </center>
 
-
 ## What is it?
 
 Mode 2 is a regular meetup about IT innovation within large companies across central Scotland.
@@ -17,15 +16,18 @@ Each meetup will feature two short talks and a chance to connect with IT innovat
 
 ## Next Event
 **Planned currently for mid September 2016. Details will be published [on twitter](https://twitter.com/mode2meetup).**
-z
+
+
+## Sponsorship
+
 ## Previous Events
 
 ### #3 May 25th 2016, CodeClan 
-
-##### Talks
+#### Talks
 * [Harvey Wheaton](https://twitter.com/harveywheaton), CEO - Codeclan: 
 
- *Are you the Problem?!*
+ *Are you the Problem?!*  
+ 
  Moving to an Agile environment is a fundamental and all-pervasive mindset shift that needs to start at the top of an organisation. Drawing on his experience of Agile transformations in a variety of companies, Harvey will challenge leaders to wake up from the "illusion of control" that can render Agile impotent. [Video of talk](https://www.youtube.com/watch?v=pH3SOLUp3v8)
 
 * [Clare Barnett](https://twitter.com/ClareBarnett), Snr. UX Designer -  Registrars of Scotland
@@ -35,7 +37,31 @@ z
  There are some big challenges fitting UX into cross functional teams working agile. What are they, and how do you overcome them? Clare will discuss her experience of different working practices, and her love of Lean UX. [Video of talk](https://www.youtube.com/watch?v=o-GK9ffw9T0)
 
 ### #2 March 23rd, Standard Life House
+
+####Talks
+* Robert McGill, Head of Digital Delivery - Standard Life
+
+ *IT's not enough*  
+ 
+ Technology is changing faster than our ability to take advantage of it. In this talk Robert McGill, Head of Digital at Standard Life, will talk about some of the challenges IT is facing and share some ideas from his experience about how to handle them. [Video of talk]()
+
+* [Clarke Ching](https://twitter.com/clarkeching), Snr. UX Designer -  Registrars of Scotland
+
+ *Rock Solid Promises*
+
+ How to deliver 95% of YOUR software projects on time or early, without bloating estimates, cutting quality or crossing your fingers.  [Video of talk]()
+
+
 ### #1 November 25th 2015, Standard life House
+####Talks
+* [Martin Pllu](https://twitter.com/martinpllu), Technical Architect - Standard Life  
+
+ *How we built Mode 2 at Standard Life*  
+
+
+* [Jamie Stewart](https://twitter.com/jamsstu), Software Developer - Standard Life
+
+ *Hybrid mobile apps - why go native?*
 
 
 
